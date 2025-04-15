@@ -1,7 +1,15 @@
 # Netflix-Movies-Analysis
 This project involves exploratory data analysis (EDA) on a Netflix movies dataset to extract meaningful insights about genre distribution, release trends, movie ratings, duration, and more. The analysis is performed using Python libraries like pandas, matplotlib, seaborn, and plotly for interactive visualizations.
+
+---
+
 ## 📊 Netflix Movies Analysis ##
 A data analysis project focused on exploring and extracting insights from a Netflix movies dataset. This analysis dives into content trends, rating distributions, genre categorizations, and more using Python data science tools.
+
+![Netflix Banner](./images/netflix-banner.jpg)
+
+---
+
 
 ## 🔍 Project Overview ##
 This notebook performs exploratory data analysis (EDA) on a dataset containing nearly 10,000 Netflix titles. Key operations include:
@@ -22,6 +30,8 @@ This notebook performs exploratory data analysis (EDA) on a dataset containing n
 
     Genre distribution
 
+   ---
+
 ## 🛠️ Tools & Technologies Used ##
 1. Python
 
@@ -32,6 +42,8 @@ This notebook performs exploratory data analysis (EDA) on a dataset containing n
 4. NumPy – for numerical operations
 
 5. Jupyter Notebook – for interactive analysis
+   
+---
 
 ## 📁 Dataset ##
 The dataset includes 9 main columns for 9,827 titles, such as:
@@ -41,6 +53,9 @@ The dataset includes 9 main columns for 9,827 titles, such as:
 2. Popularity, Vote_Average, Vote_Count
 
 3. Columns like Poster_Url, Overview, and Original_Language were dropped for being irrelevant to the core analysis.
+   
+---
+
 
 ## 📈 Key Findings ##
 1. Vote_Average was categorized into: popular, average, below_avg, and not_popular for better insights.
@@ -50,6 +65,9 @@ The dataset includes 9 main columns for 9,827 titles, such as:
 3. Popularity showed noticeable outliers that were treated or accounted for.
 
 4. Missing or duplicated values were minimal or non-existent, making the dataset relatively clean from the start.
+   
+---
+
 
 ## 🚀 Getting Started ##
 To run this project locally:
@@ -60,6 +78,11 @@ Edit
 git clone https://github.com/Harikesh-Prajapati/netflix-movies-analysis.git
 cd netflix-movies-analysis
 jupyter notebook
+
+
+---
+
+
 ## 📌 Future Enhancements ##
 Incorporate TV shows data along with movies
 
