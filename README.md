@@ -57,7 +57,7 @@ To run this project locally:
 sbash
 Copy
 Edit
-## git clone https://github.com/Harikesh-Prajapati/netflix-movies-analysis.git
+# git clone https://github.com/Harikesh-Prajapati/netflix-movies-analysis.git
 cd netflix-movies-analysis
 jupyter notebook
 ## 📌 Future Enhancements ##
