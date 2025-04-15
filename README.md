@@ -14,13 +14,13 @@ This notebook performs exploratory data analysis (EDA) on a dataset containing n
 
 4. Visualizations to understand trends in:
 
-Release years
+    Release years
 
-Popularity
+    Popularity
 
-Viewer ratings
+    Viewer ratings
 
-Genre distribution
+    Genre distribution
 
 ## 🛠️ Tools & Technologies Used ##
 1. Python
@@ -57,7 +57,7 @@ To run this project locally:
 sbash
 Copy
 Edit
-# git clone https://github.com/Harikesh-Prajapati/netflix-movies-analysis.git
+git clone https://github.com/Harikesh-Prajapati/netflix-movies-analysis.git
 cd netflix-movies-analysis
 jupyter notebook
 ## 📌 Future Enhancements ##
