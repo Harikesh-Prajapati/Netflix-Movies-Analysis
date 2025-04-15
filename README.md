@@ -6,7 +6,7 @@ This project involves exploratory data analysis (EDA) on a Netflix movies datase
 ## 📊 Netflix Movies Analysis ##
 A data analysis project focused on exploring and extracting insights from a Netflix movies dataset. This analysis dives into content trends, rating distributions, genre categorizations, and more using Python data science tools.
 
-![Netflix Banner](https://raw.githubusercontent.com/Harikesh-Prajapati/Your-Actual-Repo-Name/main/Netflix%20image.jpg)
+![Image](https://github.com/user-attachments/assets/ba2bbdf9-8639-42ab-9901-f0273711f8d7)
 
 
 ---
